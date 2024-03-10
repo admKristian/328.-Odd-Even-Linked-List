@@ -35,17 +35,22 @@ ListNode three = new(3);
 ListNode four = new(4);
 ListNode five = new(5);
 
+
+
+
 one.next = two;
 two.next = three;
 three.next = four;
 four.next = five;
+
+
 
 Solution sol = new();
 
 sol.OddEvenList(one);
 
 ListNode current = one;
-while (current.next != null)
+while (current != null)
 {
     System.Console.WriteLine(current.val);
     current = current.next;
@@ -62,22 +67,38 @@ public class ListNode
     }
 }
 
-//Input: head = [1,2,3,4,5]
+//Input: head = [1,2,3,4]
 public class Solution
 {
     public ListNode OddEvenList(ListNode head)
     {
+        if (head == null || head.next == null) return head;  //handle troll case
         ListNode current = head;
+        ListNode firstEven = head.next;
+        int count = 1;
 
-        while (current.next != null)
+        while (current != null)
         {
+            count++;
             ListNode nextNode = current.next;
-            current.next = nextNode.next;
+            if (nextNode.next != null)
+            {
+                current.next = nextNode.next;
+                current = nextNode;
 
-            current = nextNode;
+            }
+            else break;
         }
-
-
+        //Disconnect nodes
+        if (count % 2 == 0)
+        {
+            current.next = firstEven;
+        }
+        else
+        {
+            current.next.next = firstEven;
+            current.next = null;
+        }
         return head;
     }
 }

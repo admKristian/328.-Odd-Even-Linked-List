@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\328_Odd_Even_Linked_List.csproj": {}
+    "c:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\328_Odd_Even_Linked_List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\328_Odd_Even_Linked_List.csproj": {
+    "c:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\328_Odd_Even_Linked_List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\328_Odd_Even_Linked_List.csproj",
+        "projectUniqueName": "c:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\328_Odd_Even_Linked_List.csproj",
         "projectName": "328_Odd_Even_Linked_List",
-        "projectPath": "C:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\328_Odd_Even_Linked_List.csproj",
+        "projectPath": "c:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\328_Odd_Even_Linked_List.csproj",
         "packagesPath": "C:\\Users\\iveri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\obj\\",
+        "outputPath": "c:\\Users\\iveri\\Desktop\\Projects\\leetcode\\328_Odd_Even_Linked_List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

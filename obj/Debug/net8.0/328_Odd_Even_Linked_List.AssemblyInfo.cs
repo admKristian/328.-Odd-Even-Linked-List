@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("328_Odd_Even_Linked_List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b3d784250a372c2c672ace278dd8f530364584")]
 [assembly: System.Reflection.AssemblyProductAttribute("328_Odd_Even_Linked_List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("328_Odd_Even_Linked_List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

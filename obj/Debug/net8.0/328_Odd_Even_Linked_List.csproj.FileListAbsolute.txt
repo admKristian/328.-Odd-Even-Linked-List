@@ -1,0 +1,15 @@
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\bin\Debug\net8.0\328_Odd_Even_Linked_List.exe
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\bin\Debug\net8.0\328_Odd_Even_Linked_List.deps.json
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\bin\Debug\net8.0\328_Odd_Even_Linked_List.runtimeconfig.json
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\bin\Debug\net8.0\328_Odd_Even_Linked_List.dll
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\bin\Debug\net8.0\328_Odd_Even_Linked_List.pdb
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\328_Odd_Even_Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\328_Odd_Even_Linked_List.AssemblyInfoInputs.cache
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\328_Odd_Even_Linked_List.AssemblyInfo.cs
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\328_Odd_Even_Linked_List.csproj.CoreCompileInputs.cache
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\328_Odd_Even_Linked_List.sourcelink.json
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\328_Odd_Even_Linked_List.dll
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\refint\328_Odd_Even_Linked_List.dll
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\328_Odd_Even_Linked_List.pdb
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\328_Odd_Even_Linked_List.genruntimeconfig.cache
+c:\Users\iveri\Desktop\Projects\leetcode\328_Odd_Even_Linked_List\obj\Debug\net8.0\ref\328_Odd_Even_Linked_List.dll
